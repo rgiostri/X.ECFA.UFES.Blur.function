@@ -3,4 +3,4 @@
 
 Notes:
 
-1 - The jupyter notebook file was written to be used in a Google Colab for simplicity.
+1 - The jupyter notebook file was written to be used in a Google Colab.
